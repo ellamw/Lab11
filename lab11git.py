@@ -1,5 +1,4 @@
 import json
-from json.encoder import JSONEncoder
 
 #           PART 1
 list = [1121, "Jackie Grainger", 22.22, 
